@@ -1,0 +1,10 @@
+May 17 12:00:00 server sshd[12345]: Failed password for invalid user root from 192.168.1.100 port 54321 ssh2
+May 17 12:00:00 server sshd[12345]: Failed password for invalid user root from 192.168.1.100 port 54321 ssh2
+May 17 12:00:00 server sshd[12345]: Failed password for invalid user root from 192.168.1.100 port 54321 ssh2
+May 17 12:00:00 server sshd[12345]: Failed password for invalid user root from 192.168.1.100 port 54321 ssh2
+May 17 12:00:00 server sshd[12345]: Failed password for invalid user root from 192.168.1.100 port 54321 ssh2
+May 17 12:00:00 server sshd[12345]: Failed password for invalid user root from 192.168.1.100 port 54321 ssh2
+May 17 12:00:00 server sshd[12345]: Failed password for invalid user root from 192.168.1.100 port 54321 ssh2
+May 17 12:00:00 server sshd[12345]: Failed password for invalid user root from 192.168.1.100 port 54321 ssh2
+May 17 12:00:00 server sshd[12345]: Failed password for invalid user root from 192.168.1.100 port 54321 ssh2
+192.168.1.50 - - [17/May/2026] 'GET /admin.php?id=1 UNION SELECT null, username, password FROM users HTTP/1.1' 200
